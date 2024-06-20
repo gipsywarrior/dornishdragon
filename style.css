@@ -367,6 +367,7 @@ i {
 }
 
 fieldset {
+    min-width: 73px;
     flex: 1;
     border: 1px solid #ceb58a;
     padding-top: 8px;
@@ -423,6 +424,10 @@ l {
     display: block;
     margin-top: 5px;
     width: 100%;
+}
+
+audio {
+    display: none
 }
 
 /* Desuso
