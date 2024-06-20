@@ -50,8 +50,3 @@
         }
     );
 });
-
-/* Autoplay después de carga del DOM */
-window.addEventListener('DOMContentLoaded',()=>{
-  document.getElementById('audio').play();
-});

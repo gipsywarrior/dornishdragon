@@ -11,6 +11,11 @@
     border-radius: 40px;
   }
 
+body {
+    display: flex;
+    justify-content: center;
+}
+
 .base {
     width: 830px;
     height: 830px;
