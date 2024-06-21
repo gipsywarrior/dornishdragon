@@ -18,6 +18,7 @@ body {
 
 a {
     color:#beb3a1;
+    text-decoration: none;
     transition: 0.5s;
 }
 
