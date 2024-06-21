@@ -32,7 +32,7 @@
             // Cuando el mouse entra en el elemento .subbody.hover
             $(this).closest('.cont2').css('flex', '2');
             $(this).find('p').css({
-                'height': '100%',
+                'height': '100.2%',
                 'margin-top': '0px',
                 'padding-block': '30px',
                 'color': 'inherit'
