@@ -16,6 +16,15 @@ body {
     justify-content: center;
 }
 
+a {
+    color:#beb3a1;
+    transition: 0.5s;
+}
+
+a:hover {
+    color: #c9beae
+}
+
 .base {
     width: 830px;
     height: 830px;
