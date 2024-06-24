@@ -435,7 +435,7 @@ l {
     width: 100%;
 }
 
-l::first-child {
+l:first-child {
     margin-top: 0px;
 }
 
