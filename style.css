@@ -435,6 +435,10 @@ l {
     width: 100%;
 }
 
+l::first-child {
+    margin-top: 0px;
+}
+
 /* Desuso
 
 .cont2:hover {
