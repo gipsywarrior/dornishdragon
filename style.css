@@ -328,7 +328,7 @@ i {
     border-bottom: 1px solid #ceb58a;
     margin-top: -1px;
     transition: 0.4s;
-    overflow: hidden;
+    overflow: auto;
     padding: 30px;
     padding-block: 0px;
     box-sizing: border-box;
